@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rejuvacartagena.netlify.app/sitemap.xml
