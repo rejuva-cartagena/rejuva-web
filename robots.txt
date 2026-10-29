@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://rejuvacartagena.netlify.app/sitemap.xml
+
+Sitemap: https://cartagenarejuva.netlify.app/sitemap.xml
